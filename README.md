@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Karim Taha</h1>
 <h3 align="center">Junior Software Testing</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=karim0taha&label=Profile%20views&color=0e75b6&style=flat" alt="karim0taha" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karim0taha" alt="karim0taha" /></a> </p>
-
 - 🌱 I’m currently learning **FWD Frontend Testing Nanodegree Program**
 
 - 👨‍💻 All of my projects are available at [https://github.com/karim0taha](https://github.com/karim0taha)
