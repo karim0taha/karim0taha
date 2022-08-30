@@ -5,11 +5,11 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-- 📄 I’m currently open for: An Intern or a new job opportunity, this is [MY Resume](https://drive.google.com/file/d/1epzMs4WpyEqi1dxwOgn4L-KkOz2WJloC/view?usp=sharing)
+- 📄 I’m currently open for: An Intern or a new job opportunity, this is [MY Resume](https://drive.google.com/file/d/1MkazPStJlt0lLrZ1KDE073IvLMNdEev-/view?usp=sharing)
 
-- 🌱 I’m currently learning **FWD Frontend Testing Nanodegree Program**
+- 🌱 I graduated from **FWD Frontend Testing Nanodegree Program**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Karimtaha2](Github)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/Karimtaha2)
 
 - ✉️ &nbsp;You can shoot me an email at **karimtaha8800@gmail.com**!
 
