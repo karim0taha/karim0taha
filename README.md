@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **FWD Frontend Testing Nanodegree Program**
 
-- 👨‍💻 All of my projects are available at [https://github.com/karim0taha](https://github.com/karim0taha)
+- 👨‍💻 All of my projects are available at [https://github.com/Karimtaha2](Github)
 
 - ✉️ &nbsp;You can shoot me an email at **karimtaha8800@gmail.com**!
 
