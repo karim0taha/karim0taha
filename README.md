@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Karim Taha</h1>
-<h3 align="center">Junior Software Testing</h3>
+<h3 align="center">Java Developer</h3>
 
 ## 👨🏻‍💻 &nbsp;About Me
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-- 📄 I’m currently open for: An Intern or a new job opportunity, this is [MY Resume](https://drive.google.com/file/d/1MkazPStJlt0lLrZ1KDE073IvLMNdEev-/view?usp=sharing)
-
 - 🌱 I graduated from **FWD Frontend Testing Nanodegree Program**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/Karimtaha2)
 
-- ✉️ &nbsp;You can shoot me an email at **karimtaha8800@gmail.com**!
+- ✉️ &nbsp;You can shoot me an email at **karimtaha881@gmail.com**!
 
 - ⚡ Always **learning new things**
 
@@ -30,6 +28,3 @@
 
 ## Watch my contributions get eaten by a snake 🐍
 ![snake gif](https://github.com/tanyarajhans/Actions/blob/output/github-contribution-grid-snake.svg)
-
-<p align="left"><img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=karim0taha&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="karim0taha" /></p>
-<p align="right"><img width="45%" align="right" sy src="https://github-readme-stats.vercel.app/api/top-langs/?username=karim0taha&layout=compact&theme=radical&hide_border=true" alt="karim0taha" /></p>
