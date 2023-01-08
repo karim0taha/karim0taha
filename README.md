@@ -5,7 +5,7 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-- 🌱 I graduated from **FWD Frontend Testing Nanodegree Program**
+- 🌱 In ITI, I am studying **Enterprise & Web Apps Development - Java**.
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/Karimtaha2)
 
